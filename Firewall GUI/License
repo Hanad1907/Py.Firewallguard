@@ -1,0 +1,18 @@
+
+### Instructions for Use
+1. **Set Up Environment**:
+   - Create a virtual environment and activate it.
+   - Install the required packages listed in `requirements.txt`.
+
+2. **Run the GUI**:
+   - Execute `python firewall_gui.py` to start the application.
+
+3. **Log Monitoring**:
+   - Check `firewall.log` for event logs.
+
+### Next Steps
+- Expand the firewall logic to include real traffic filtering.
+- Implement additional features like user authentication and custom rules.
+- Enhance the GUI with more options and visual elements for better user interaction.
+
+This structure gives you all the necessary files to create your firewall application with a GUI. Let me know if you need any further modifications or additional code!
